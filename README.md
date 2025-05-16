@@ -29,7 +29,7 @@ WeatherMate is a simple and user-friendly weather application built using **Java
 | Technology         | Purpose                          |
 |-------------------|----------------------------------|
 | Java              | Core application logic           |
-| Swing / AWT       | User Interface (Java GUI)        |
+| React js     | user interface       |
 | OpenWeatherMap API| Real-time weather data source    |
 | Maven             | Build and dependency management  |
 | Render            | Hosting & Deployment             |
