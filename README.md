@@ -1,6 +1,6 @@
 # 🌦️ WeatherMate
 
-WeatherMate is a simple and user-friendly weather application built using **Java**. It fetches real-time weather data from the **OpenWeatherMap API** and displays essential details like temperature, humidity, and wind speed.
+Skymate is a simple and user-friendly weather application built using **Java**. It fetches real-time weather data from the **OpenWeatherMap API** and displays essential details like temperature, humidity, and wind speed.
 
 
 
@@ -36,19 +36,7 @@ WeatherMate is a simple and user-friendly weather application built using **Java
 
 ---
 
-## ⚙️ Installation & Setup
 
-```bash
-# Clone the repository
-git clone https://github.com/HARINII2415/weathermate.git
-cd weathermate
-Open the project in IntelliJ IDEA or Eclipse.
-
-Get your API key from OpenWeatherMap.
-
-Add the API key to your config or Constants.java file.
-
-Run Main.java to start the application.
 
 🚀 Future Enhancements
 📅 7-Day Forecast Support
