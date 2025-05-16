@@ -1,7 +1,7 @@
 # 🌦️ Skymate
 
 Skymate is a simple and user-friendly weather application built using **Java**. It fetches real-time weather data from the **OpenWeatherMap API** and displays essential details like temperature, humidity, and wind speed.
-
+live [link](https://skymate2-0.onrender.com/)
 
 
 
