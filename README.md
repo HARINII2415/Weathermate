@@ -2,7 +2,7 @@
 
 WeatherMate is a simple and user-friendly weather application built using **Java**. It fetches real-time weather data from the **OpenWeatherMap API** and displays essential details like temperature, humidity, and wind speed.
 
-🔗 **Live Demo**: [https://weathermate-app-k6hg.onrender.com/](https://weathermate-app-k6hg.onrender.com/)
+
 
 
 ---
